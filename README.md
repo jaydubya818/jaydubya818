@@ -39,6 +39,7 @@ I build intelligent agents, multi-agent systems, and AI-powered products designe
 | LifeOS | Personal AI operating system for goals, routines, notes, and decisions |
 | Agent-to-Human Marketplace | Platform connecting AI agents with human expertise on demand |
 | Agent Amor | Human-centered AI focused on connection and emotionally intelligent interaction |
+| SellerFi | AI-powered business sales and acquisition operations platform |
 
 ---
 
