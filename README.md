@@ -31,8 +31,8 @@ I build intelligent agents, multi-agent systems, and AI-powered products designe
 
 | Project | Description |
 |---|---|
-| [Agent Management System](https://github.com/jaydubya818/Agent_Management_System) | System for managing and coordinating multiple AI agents |
-| [MissionControl](https://github.com/jaydubya818/MissionControl) | Command-and-control interface for agent operations |
+| Agent Management System| System for managing and coordinating multiple AI agents |
+| Mission Control| Command-and-control interface for fully autonomous agentic operations |
 | Twinz | AI-powered operating system for memory, workflows, and contextual assistance |
 | AI-CEO | Strategic executive agent for planning, prioritization, and decision support |
 | Comicogs | AI-first collectibles marketplace and digital vault for comic collectors |
