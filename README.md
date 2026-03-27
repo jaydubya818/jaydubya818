@@ -1,6 +1,6 @@
 # Hey, I'm Jarrett 👋
 
-**AI Engineer · Agent Systems Builder · AI-Native Product Thinker**
+**AI Engineer Leader · Agent Systems Builder · AI-Native Product Thinker**
 
 I build intelligent agents, multi-agent systems, and AI-powered products designed for real-world use. My focus is on making AI practical — reliable, composable, scalable, and useful in production.
 
