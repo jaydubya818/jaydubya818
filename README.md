@@ -17,13 +17,13 @@ I build intelligent agents, multi-agent systems, and AI-powered products designe
 
 ## 🛠 Tech Stack
 
-**Languages:** Python · TypeScript · JavaScript
+**Languages:** Python · TypeScript · JavaScript  · C#
 
-**AI / Agent Systems:** OpenAI · Claude · LangChain · LangGraph · RAG · Multi-agent orchestration
+**AI / Agent Systems:** OpenAI · Claude · LangChain/LangGraph · RAG · Multi-agent orchestration · Agent SDK
 
 **Backend / Platform:** FastAPI · Node.js · REST APIs · Docker · Git
 
-**Tooling:** Cursor · VS Code · Postman
+**Tooling:** Cursor · VS Code · Postman · Windsurf
 
 ---
 
