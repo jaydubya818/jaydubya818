@@ -2,11 +2,21 @@
 
 **AI Engineering Leader · Agentic Systems · AI Developer Platforms · Autonomous Software Delivery**
 
-I build **governed AI engineering platforms, intelligent agents, and autonomous software delivery systems** designed for real-world production environments.
+I build **governed AI engineering platforms, intelligent agents, and autonomous software delivery systems** for real-world production environments.
 
-My focus is on moving AI engineering beyond copilots, one-off prompts, and isolated coding agents toward **reliable systems of humans + agents + deterministic code** where humans define intent, constraints, risk, and acceptance criteria while agents execute bounded work and deterministic systems validate, verify, govern, and learn from the results.
+My work focuses on moving AI engineering beyond copilots, one-off prompts, and isolated coding agents toward **reliable systems of humans + agents + deterministic software**:
 
-I’m especially focused on the engineering needed to make agentic systems work repeatedly at scale: **specification, context engineering, orchestration, memory, isolated execution, verification, observability, recovery, and continuous improvement.**
+- **Humans** define intent, constraints, priorities, risk, and consequential decisions.
+- **Agents** investigate, plan, use tools, modify software, and execute bounded work.
+- **Deterministic systems** enforce contracts, validate outcomes, verify evidence, govern transitions, and provide recovery.
+
+I’m especially focused on the engineering required to make agentic systems work reliably across the **100th or 1,000th execution—not just an impressive first demo**: specification, context engineering, orchestration, memory, isolated execution, verification, observability, recovery, and governed continuous improvement.
+
+## 🧭 AI Software Factory Mastery
+
+[**Explore the live site →**](https://ai-software-factory-mastery.vercel.app/)
+
+Research, architecture, patterns, and implementation guidance for designing **governed AI Software Factories** that move beyond individual coding agents into reusable agent capabilities, harnesses, orchestration, independent verification, delivery, observability, and continuous learning.
 
 ## 🚀 Featured: Mission Control — Autonomous Software Factory
 
@@ -25,7 +35,7 @@ Mission Control is built around a few core principles:
 - Memory, observability, and learning remain advisory rather than becoming hidden authority.
 - Every important transition has durable lineage, provenance, and recovery semantics.
 
-Current capabilities include **Spec-Driven Mission Intake, Quality Contracts, Factory Memory, Generic Harness execution, worker leases, isolated Remote Sandboxes, independent Verification Attempts, exact-current GitHub evidence, Observability/Evals, Progressive Factory workflows, and governed Factory Learning.**
+Current capabilities include **Spec-Driven Mission Intake, Quality Contracts, Factory Memory, Generic Harness Execution, Worker Leases, Isolated Remote Sandboxes, Independent Verification Attempts, Exact-Current GitHub Evidence, Observability/Evals, Progressive Factory Workflows, and Governed Factory Learning.**
 
 ## 🔭 What I'm Building & Exploring
 
@@ -38,7 +48,7 @@ I’m currently focused on:
 - Verification-first AI engineering and evidence-driven acceptance
 - Agent observability, evaluations, recovery, and operational control
 - Secure isolated agent execution and sandbox infrastructure
-- Self-improving software factories driven by production evidence
+- Governed continuous improvement driven by production evidence
 - Spec-driven agentic development and requirements-to-verification lineage
 
 ## 🧠 How I Think About Agentic Engineering
@@ -46,12 +56,12 @@ I’m currently focused on:
 The strongest AI systems combine three actors:
 
 1. **Humans** define intent, constraints, priorities, risk, and consequential decisions.
-
 2. **Agents** investigate, plan, modify software, use tools, and execute bounded work.
-
 3. **Deterministic Code** enforces contracts, scope, identity, tests, verification, evidence, security boundaries, currentness, and acceptance gates.
 
-The goal isn't simply to run more agents. The goal is to build systems that can execute **reliably across the 100th or 1,000th run**, not just produce an impressive first demo.
+The goal isn't simply to run more agents.
+
+The goal is to build systems that execute **reliably across the 100th or 1,000th run**, not just produce an impressive first demo.
 
 ## 🛠 Tech & Architecture
 
@@ -72,27 +82,33 @@ The goal isn't simply to run more agents. The goal is to build systems that can 
 ## 📌 Featured Projects
 
 ### [Mission Control](https://github.com/jaydubya818/MissionControl)
+
 **Governed AI Software Factory:** A human-directed autonomous software delivery platform spanning specification, planning, context, execution, verification, evidence, acceptance, observability, and continuous learning.
 
 ### [AI Software Factory Mastery](https://github.com/jaydubya818/ai-software-factory-mastery)
+
 **Live site:** [ai-software-factory-mastery.vercel.app](https://ai-software-factory-mastery.vercel.app/)
 
-**Software Factory architecture and agentic engineering patterns:** Research, architecture, patterns, and implementation concepts for moving from coding agents toward reusable AI developer workflows and autonomous software factories.
+**AI Software Factory architecture and agentic engineering:** A technical curriculum and architecture reference for designing governed autonomous software delivery systems spanning intent, agents, harnesses, orchestration, verification, delivery, observability, and continuous learning.
 
 ### [AI-FDE Agent](https://github.com/jaydubya818/AI-FDE-Agent)
+
 **Forward-Deployed AI Engineering:** AI-driven workflows for discovering engineering friction, identifying automation opportunities, validating outcomes, and continuously improving developer systems.
 
 ### [Agentic Pi Harness](https://github.com/jaydubya818/Agentic-Pi-Harness)
-**Agent harness engineering:** Experiments in model/tool execution, workflow composition, agent capabilities, controllability, and reusable harness infrastructure.
+
+**Agent Harness Engineering:** Experiments in model/tool execution, workflow composition, agent capabilities, controllability, and reusable harness infrastructure.
 
 ### [Multi-Agent Observability](https://github.com/jaydubya818/multi-agent-observability)
-**Operational visibility for agent systems:** Tracing, runtime visibility, evaluation, and operational controls for understanding and improving multi-agent execution.
+
+**Operational Visibility for Agent Systems:** Tracing, runtime visibility, evaluation, and operational controls for understanding and improving multi-agent execution.
 
 ### [Agentic-KB](https://github.com/jaydubya818/Agentic-KB)
-**Persistent knowledge and context infrastructure:** Knowledge, retrieval, memory, provenance, and context systems designed to provide agents with durable and attributable information.
+
+**Persistent Knowledge and Context Infrastructure:** Knowledge, retrieval, memory, provenance, and context systems designed to provide agents with durable and attributable information.
 
 ## 🤝 Let's Connect
 
 I enjoy collaborating with people working on **AI engineering platforms, agentic systems, developer infrastructure, autonomous software delivery, and practical production AI**.
 
-LinkedIn: [Jarrett West](https://linkedin.com/in/JayWest01)
+**LinkedIn:** [Jarrett West](https://linkedin.com/in/JayWest01)
