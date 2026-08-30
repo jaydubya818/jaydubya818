@@ -4,7 +4,7 @@
 
 I build **governed AI engineering platforms, intelligent agents, and autonomous software delivery systems** designed for real-world production environments.
 
-My focus is on moving AI engineering beyond copilots, one-off prompts, and isolated coding agents toward **reliable systems of humans + agents + deterministic code** — where humans define intent, constraints, risk, and acceptance criteria while agents execute bounded work and deterministic systems validate, verify, govern, and learn from the results.
+My focus is on moving AI engineering beyond copilots, one-off prompts, and isolated coding agents toward **reliable systems of humans + agents + deterministic code** where humans define intent, constraints, risk, and acceptance criteria while agents execute bounded work and deterministic systems validate, verify, govern, and learn from the results.
 
 I’m especially focused on the engineering needed to make agentic systems work repeatedly at scale: **specification, context engineering, orchestration, memory, isolated execution, verification, observability, recovery, and continuous improvement.**
 
@@ -95,5 +95,4 @@ The goal isn't simply to run more agents. The goal is to build systems that can 
 
 I enjoy collaborating with people working on **AI engineering platforms, agentic systems, developer infrastructure, autonomous software delivery, and practical production AI**.
 
-GitHub: [@jaydubya818](https://github.com/jaydubya818)  
 LinkedIn: [Jarrett West](https://linkedin.com/in/JayWest01)
