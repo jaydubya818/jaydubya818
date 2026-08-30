@@ -5,7 +5,7 @@
 I build governed AI engineering platforms: systems of humans, agents, and
 deterministic code where humans define intent and acceptance, agents execute
 bounded work, and code verifies the result. The interesting engineering is not
-in the first impressive demo — it's in making the 1,000th run behave like the
+in the first impressive demo, it's in making the 1,000th run behave like the
 first.
 
 ## Projects
