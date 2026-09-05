@@ -12,7 +12,7 @@ My work focuses on moving AI engineering beyond copilots, one-off prompts, and i
 
 I’m especially focused on the engineering required to make agentic systems work reliably across the **100th or 1,000th execution—not just an impressive first demo**: specification, context engineering, orchestration, memory, isolated execution, verification, observability, recovery, and governed continuous improvement.
 
-## 🧭 AI Software Factory Mastery
+## 🧭 AI Software Factory Mastery Guide
 
 [**Explore the live site →**](https://ai-software-factory-mastery.vercel.app/)
 
