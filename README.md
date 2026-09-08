@@ -14,7 +14,7 @@ I’m especially focused on the engineering required to make agentic systems wor
 
 ## 🧭 AI Software Factory Mastery Guide
 
-[**Explore the live site →**](https://fdlc.ai/guide)
+[**Explore the live site →**](https://ai-software-factory-mastery.vercel.app/)
 
 Research, architecture, patterns, and implementation guidance for designing **governed AI Software Factories** that move beyond individual coding agents into reusable agent capabilities, harnesses, orchestration, independent verification, delivery, observability, and continuous learning.
 
