@@ -85,7 +85,7 @@ A technical guide to designing and operating governed AI software factories, cov
 - **AI-FDE — AI Factory Deployed Engineer:** An evidence-driven workspace supporting human Factory Deployed Engineers in discovering workflow friction, defining factory requirements, and guiding adoption.
 - **Agentic Pi Harness:** Agent harness architecture, model and tool execution, and reusable orchestration infrastructure.
 - **Multi-Agent Observability:** Execution tracing, evaluation, runtime visibility, and operational controls for multi-agent systems.
-- **Agentic-KB:** Enterprise knowledge retrieval, persistent memory, provenance, and RAG infrastructure.
+- **Agentic-KB:** Enterprise knowledge search & retrieval, persistent memory, provenance, and RAG infrastructure.
 
 ---
 
@@ -105,9 +105,13 @@ A technical guide to designing and operating governed AI software factories, cov
 
 ## 🧠 Engineering Philosophy
 
-The next major advance in AI-assisted software engineering isn't simply more capable coding agents. It's the infrastructure that makes their work **reliable, measurable, recoverable, and trustworthy**.
+**The next breakthrough in autonomous software engineering isn’t generating more code. It’s proving that the code works.**
 
-That requires clear specifications, bounded execution, durable state, independent verification, and human authority over consequential decisions.
+AI agents can write software faster than ever. The bottleneck is shifting from implementation to verification. Knowing what was built, whether it meets the requirements, and whether it’s safe to ship.
+
+That’s why I’m building systems around agents that make execution bounded, verification independent, and every outcome backed by evidence.
+
+**Agents build. Systems verify. Humans decide.**
 
 > **Trust the system, not the model.**
 
