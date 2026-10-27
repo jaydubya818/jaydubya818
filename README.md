@@ -16,6 +16,8 @@ My approach is straightforward:
 
 The goal isn't simply to generate code faster. It's to build systems that deliver verified outcomes consistently.
 
+**Explore:** [FDLC.ai](#-fdlcai--factory-development-lifecycle) · [Mission Control](#-featured-project-mission-control) · [AI Software Factory Guide](#-ai-software-factory-mastery-guide) · [Projects](#-other-projects--experiments) · [Technologies](#-technologies--engineering-expertise)
+
 ---
 
 ## 🏭 FDLC.ai — Factory Development Lifecycle
@@ -25,6 +27,8 @@ The goal isn't simply to generate code faster. It's to build systems that delive
 [**FDLC.ai**](https://fdlc.ai) is the public home of the **Factory Development Lifecycle**, an engineering framework for moving from isolated AI-assisted development toward governed autonomous software delivery.
 
 FDLC defines the operating model around agents, models, tools, people, policies, evidence, and workflows.
+
+**FDLC defines how an AI software factory should operate. Mission Control implements those principles in a working autonomous software delivery system.**
 
 Its central principle is simple:
 
@@ -65,6 +69,12 @@ Rather than acting as another coding agent or chat interface, Mission Control co
 It connects the software development lifecycle:
 
 **Mission → Specification → Plan → WorkOrder → Context → Execution → Independent Verification → Pull Request → Human Acceptance → Factory Learning**
+
+### Demonstrated End-to-End Delivery
+
+Mission Control has demonstrated a governed software delivery workflow connecting approved engineering intent, agent execution, independent verification, evidence-backed pull-request creation, and human acceptance through real GitHub integration.
+
+The system preserves execution state, evidence lineage, and authority boundaries so that agent completion is never mistaken for verified success.
 
 ### Core Capabilities
 
@@ -134,7 +144,7 @@ The guide explores:
 
 ### AI-FDE — AI Factory Deployed Engineer
 
-An evidence-driven approach to discovering engineering friction, identifying automation opportunities, defining factory requirements, and introducing governed AI software delivery into organizations.
+An evidence-driven workspace that helps human Factory Deployed Engineers discover workflow friction, define factory requirements, evaluate automation opportunities, and guide adoption through measurable outcomes.
 
 ### Agentic Pi Harness
 
@@ -171,13 +181,9 @@ Engineering Strategy · Team Development · Technical Roadmaps · Architecture R
 
 ## 🧠 How I Think About AI Engineering
 
-I believe the next major advance in software engineering isn't simply making coding agents more capable.
+I believe the next major advance in AI-assisted software engineering isn't simply more capable coding agents. It's the infrastructure that makes their work **reliable, measurable, recoverable, and trustworthy**.
 
-It's building the systems that make their work **reliable, measurable, recoverable, and trustworthy**.
-
-A successful autonomous software factory needs more than a powerful model.
-
-It needs clear specifications, bounded execution, reliable context, independent verification, durable state, operational visibility, and human authority over consequential decisions.
+That requires clear specifications, bounded execution, durable state, independent verification, and human authority over consequential decisions.
 
 The engineering challenge is making those systems work consistently across the **100th or 1,000th execution**—not just the first successful demonstration.
 
