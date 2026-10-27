@@ -2,7 +2,7 @@
 
 ### AI Engineering Leader | Agentic Systems | AI Platforms | Autonomous Software Delivery
 
-I build enterprise AI platforms, intelligent agents, and governed autonomous software delivery systems.
+I build enterprise AI platforms, multi-agent engineering systems, and governed autonomous software delivery factories.
 
 I'm an engineering leader with **18+ years of experience** building enterprise platforms and leading high-performing engineering teams. My recent work focuses on production agentic AI, model-independent infrastructure, agent orchestration, enterprise knowledge systems, evaluations, and developer productivity.
 
@@ -16,7 +16,7 @@ I'm focused on moving AI engineering beyond individual copilots and coding agent
 
 ---
 
-## 🏭 FDLC.ai — Factory Development Lifecycle
+## 🏭 FDLC.ai | Factory Development Lifecycle
 
 **The engineering discipline for designing, governing, operating, evaluating, and continuously improving AI software factories.**
 
@@ -43,7 +43,7 @@ FDLC brings together:
 
 ---
 
-## 🚀 Mission Control — Autonomous Software Factory
+## 🚀 Mission Control | Autonomous Software Factory
 
 **A governed control plane for human-directed, agent-executed software delivery.**
 
@@ -72,6 +72,30 @@ Built with **16 packages, 190+ test suites, automated CI/CD, and independent ver
 
 ---
 
+## 🤖 MyEve & Sofie | Multi-Agent AI Software Engineering Platform
+
+**An AI-native developer platform connecting engineering intent, intelligent agents, tools, and independently verified software delivery.**
+
+[**MyEve**](https://github.com/jaydubya818/MyEveBot) is my multi-agent AI software engineering platform. **Sofie** is its primary AI engineering assistant and developer interface, helping engineers define requirements, coordinate agents, manage engineering context, and review results.
+
+**Intent → Plan → Code → Test → Verify → Deploy → Operate → Improve**
+
+### Core Capabilities
+
+- **Multi-Agent Orchestration:** Specialized agents, persistent context, delegated work, and tool coordination.
+- **Developer Experience:** Conversational engineering workflows, structured work tracking, and reviewable results.
+- **AI Platform Infrastructure:** Agent execution contracts, secure integrations, capability controls, and durable state.
+- **Autonomous Software Delivery:** Integration architecture connecting Deep Agent, MyFactory, Mission Control, and MyApps.
+- **Evaluation & Verification:** Independent validation, automated quality gates, execution evidence, and controlled release workflows.
+
+**Architecture:** Sofie · Relay · Deep Agent · MyFactory · Mission Control · MyApps
+
+*Status: Limited beta with two external installations supporting bounded Sofie chat. Autonomous developer execution and full software delivery remain under qualification.*
+
+**🔗 Explore:** [MyEve on GitHub](https://github.com/jaydubya818/MyEveBot)
+
+---
+
 ## 🧭 AI Software Factory Mastery Guide
 
 A technical guide to designing and operating governed AI software factories, covering agent architecture, orchestration, context engineering, durable execution, evaluations, verification, observability, and continuous improvement.
@@ -82,10 +106,10 @@ A technical guide to designing and operating governed AI software factories, cov
 
 ## 🔬 Other Projects & Experiments
 
-- **AI-FDE — AI Factory Deployed Engineer:** An evidence-driven workspace supporting human Factory Deployed Engineers in discovering workflow friction, defining factory requirements, and guiding adoption.
+- **AI-FDE | AI Factory Deployed Engineer:** An evidence-driven workspace supporting human Factory Deployed Engineers in discovering workflow friction, defining factory requirements, and guiding adoption.
 - **Agentic Pi Harness:** Agent harness architecture, model and tool execution, and reusable orchestration infrastructure.
 - **Multi-Agent Observability:** Execution tracing, evaluation, runtime visibility, and operational controls for multi-agent systems.
-- **Agentic-KB:** Enterprise knowledge search & retrieval, persistent memory, provenance, and RAG infrastructure.
+- **Agentic-KB:** Enterprise knowledge search and retrieval, persistent memory, provenance, and RAG infrastructure.
 
 ---
 
@@ -105,11 +129,11 @@ A technical guide to designing and operating governed AI software factories, cov
 
 ## 🧠 Engineering Philosophy
 
-**The next breakthrough in autonomous software engineering isn’t generating more code. It’s proving that the code works.**
+**The next breakthrough in autonomous software engineering isn't generating more code. It's proving that the code works.**
 
-AI agents can write software faster than ever. The bottleneck is shifting from implementation to verification. Knowing what was built, whether it meets the requirements, and whether it’s safe to ship.
+AI agents can write software faster than ever. The bottleneck is shifting from implementation to verification. Knowing what was built, whether it meets the requirements, and whether it's safe to ship.
 
-That’s why I’m building systems around agents that make execution bounded, verification independent, and every outcome backed by evidence.
+That's why I'm building systems around agents that make execution bounded, verification independent, and every outcome backed by evidence.
 
 **Agents build. Systems verify. Humans decide.**
 
