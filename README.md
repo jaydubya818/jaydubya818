@@ -1,114 +1,194 @@
 # Hey, I'm Jarrett 👋
 
-**AI Engineering Leader · Agentic Systems · AI Developer Platforms · Autonomous Software Delivery**
+### AI Engineering Leader | Agentic Systems | AI Platforms | Autonomous Software Delivery
 
-I build **governed AI engineering platforms, intelligent agents, and autonomous software delivery systems** for real-world production environments.
+I build enterprise AI platforms, intelligent agents, and governed autonomous software delivery systems.
 
-My work focuses on moving AI engineering beyond copilots, one-off prompts, and isolated coding agents toward **reliable systems of humans + agents + deterministic software**:
+I'm an engineering leader with **18+ years of experience** building enterprise software platforms and leading high-performing engineering teams. My recent work focuses on production agentic AI, model-independent infrastructure, agent orchestration, enterprise knowledge systems, evaluations, and developer productivity.
+
+I'm particularly interested in moving AI engineering beyond individual copilots and coding agents toward reliable, scalable systems where **humans, agents, and deterministic software work together**.
+
+My approach is straightforward:
 
 - **Humans** define intent, constraints, priorities, risk, and consequential decisions.
 - **Agents** investigate, plan, use tools, modify software, and execute bounded work.
-- **Deterministic systems** enforce contracts, validate outcomes, verify evidence, govern transitions, and provide recovery.
+- **Deterministic systems** enforce contracts, scope, policy, verification, evidence, and recovery.
 
-I’m especially focused on the engineering required to make agentic systems work reliably across the **100th or 1,000th execution—not just an impressive first demo**: specification, context engineering, orchestration, memory, isolated execution, verification, observability, recovery, and governed continuous improvement.
+The goal isn't simply to generate code faster. It's to build systems that deliver verified outcomes consistently.
+
+---
+
+## 🏭 FDLC.ai — Factory Development Lifecycle
+
+**The engineering discipline for designing, building, governing, operating, evaluating, and continuously improving AI software factories.**
+
+[**FDLC.ai**](https://fdlc.ai) is the public home of the **Factory Development Lifecycle**, an engineering framework for moving from isolated AI-assisted development toward governed autonomous software delivery.
+
+FDLC defines the operating model around agents, models, tools, people, policies, evidence, and workflows.
+
+Its central principle is simple:
+
+> **Verified delivery, not merely generated code.**
+
+### The Factory Development Lifecycle
+
+**Define → Plan → Configure → Execute → Verify → Deliver → Observe → Improve**
+
+Each stage has explicit responsibilities, quality criteria, and authority boundaries.
+
+FDLC addresses the engineering challenges that emerge when organizations move beyond individual coding assistants:
+
+- **Agent orchestration:** Coordinating agents, execution harnesses, tools, and workflows.
+- **Context engineering:** Delivering relevant, attributable context through retrieval, memory, and knowledge systems.
+- **Durable execution:** Managing long-running jobs, checkpoints, retries, recovery, and execution state.
+- **Evaluation and verification:** Measuring outcomes, detecting regressions, and independently validating changes.
+- **Governance:** Enforcing permissions, budgets, risk controls, and human approval boundaries.
+- **Observability:** Understanding execution behavior, quality, latency, cost, and operational reliability.
+- **Continuous improvement:** Using verified outcomes and production evidence to guide controlled improvements.
+
+FDLC is both an engineering methodology and a practical reference architecture for building trustworthy AI software factories.
+
+**🔗 Explore:** [FDLC.ai](https://fdlc.ai)
+
+---
+
+## 🚀 Featured Project: Mission Control
+
+### Autonomous Software Delivery Factory & Governed AI Control Plane
+
+**Mission Control** is my flagship implementation of the Factory Development Lifecycle.
+
+It's a governed control plane for **human-directed, agent-executed software delivery**.
+
+Rather than acting as another coding agent or chat interface, Mission Control coordinates the infrastructure and authority required to operate autonomous coding agents reliably.
+
+It connects the software development lifecycle:
+
+**Mission → Specification → Plan → WorkOrder → Context → Execution → Independent Verification → Pull Request → Human Acceptance → Factory Learning**
+
+### Core Capabilities
+
+#### Agent Orchestration & Durable Execution
+
+- Provider-independent agent execution harnesses.
+- Persistent workers and lease-based execution.
+- Isolated Git worktrees and scoped tool permissions.
+- Immutable execution attempts and manifests.
+- Long-running workflows, retries, and bounded failure recovery.
+
+#### AI Evaluation & Independent Verification
+
+- Rubric-based evaluation frameworks.
+- Baseline-versus-candidate comparisons.
+- Deterministic quality gates and regression detection.
+- Independent verification attempts and attributable evidence.
+- Human-controlled acceptance and release decisions.
+
+#### Platform Infrastructure & Governance
+
+- Versioned Factory configurations.
+- Policy enforcement and execution budgets.
+- Capability admission and execution boundaries.
+- Audit trails, provenance, and evidence lineage.
+- Fail-closed controls for stale or missing verification.
+
+#### Observability & Continuous Improvement
+
+- Execution tracing and operational telemetry.
+- Evaluation datasets and quality measurements.
+- Failure analysis and recovery workflows.
+- Factory Memory and context packages.
+- Evidence-driven improvement proposals.
+
+### Architecture & Technology
+
+**TypeScript · React · Convex · Hono · GitHub Apps · GitHub Actions · Playwright**
+
+Mission Control uses a modular architecture with **16 packages, 190+ test suites, automated CI/CD, and independent verification**.
+
+The platform is in active development, with qualified production-pilot capabilities and ongoing work toward broader operational readiness.
+
+**🔗 Explore:** [Mission Control on GitHub](https://github.com/jaydubya818/MissionControl)
+
+---
 
 ## 🧭 AI Software Factory Mastery Guide
 
-[**Explore the live site →**](https://ai-software-factory-mastery.vercel.app/)
+A technical learning and architecture reference for engineers designing autonomous software delivery systems.
 
-Research, architecture, patterns, and implementation guidance for designing **governed AI Software Factories** that move beyond individual coding agents into reusable agent capabilities, harnesses, orchestration, independent verification, delivery, observability, and continuous learning.
+The guide explores:
 
-## 🚀 Featured: Mission Control — Autonomous Software Factory
+- AI software factory architecture and operating models.
+- Agent harnesses, orchestration, and tool infrastructure.
+- Context engineering, RAG, and durable memory.
+- Independent verification and evaluation frameworks.
+- Agent observability and production reliability.
+- Governance, security, and human authority.
+- Continuous improvement through production evidence.
 
-[**Mission Control**](https://github.com/jaydubya818/MissionControl) is my primary AI Software Factory project — a governed control plane for human-directed autonomous software delivery.
+**🔗 Explore:** [AI Software Factory Mastery Guide](https://ai-software-factory-mastery.vercel.app)
 
-It coordinates the software development lifecycle from intent through learning:
+---
 
-**Constitution → Mission → Specification → Plan → WorkOrder → Context → Execution → Independent Verification → PR → Human Acceptance → Factory Learning**
+## 🔬 Other Projects & Experiments
 
-Mission Control is built around a few core principles:
+### AI-FDE — AI Factory Deployed Engineer
 
-- **Humans retain consequential authority** while agents execute bounded engineering work.
-- **Agents propose and execute; deterministic systems validate and govern.**
-- Agent or harness completion is not the same as verified success.
-- Verification is independent, attributable, and bound to exact candidates and evidence.
-- Memory, observability, and learning remain advisory rather than becoming hidden authority.
-- Every important transition has durable lineage, provenance, and recovery semantics.
+An evidence-driven approach to discovering engineering friction, identifying automation opportunities, defining factory requirements, and introducing governed AI software delivery into organizations.
 
-Current capabilities include **Spec-Driven Mission Intake, Quality Contracts, Factory Memory, Generic Harness Execution, Worker Leases, Isolated Remote Sandboxes, Independent Verification Attempts, Exact-Current GitHub Evidence, Observability/Evals, Progressive Factory Workflows, and Governed Factory Learning.**
+### Agentic Pi Harness
 
-## 🔭 What I'm Building & Exploring
+Experiments in agent harness architecture, model and tool execution, workflow composition, and reusable execution infrastructure.
 
-I’m currently focused on:
+### Multi-Agent Observability
 
-- Governed AI software factories and autonomous software delivery
-- Agent harnesses and provider-neutral execution infrastructure
-- Multi-agent orchestration and durable agent workflows
-- Context engineering, RAG, memory, and knowledge systems
-- Verification-first AI engineering and evidence-driven acceptance
-- Agent observability, evaluations, recovery, and operational control
-- Secure isolated agent execution and sandbox infrastructure
-- Governed continuous improvement driven by production evidence
-- Spec-driven agentic development and requirements-to-verification lineage
+Exploring execution tracing, evaluation, operational visibility, and reliability controls for multi-agent systems.
 
-## 🧠 How I Think About Agentic Engineering
+### Agentic-KB
 
-The strongest AI systems combine three actors:
+Enterprise knowledge retrieval, persistent context, memory, provenance, and RAG infrastructure for AI agents.
 
-1. **Humans** define intent, constraints, priorities, risk, and consequential decisions.
-2. **Agents** investigate, plan, modify software, use tools, and execute bounded work.
-3. **Deterministic Code** enforces contracts, scope, identity, tests, verification, evidence, security boundaries, currentness, and acceptance gates.
+---
 
-The goal isn't simply to run more agents.
+## 🛠 Technologies & Engineering Expertise
 
-The goal is to build systems that execute **reliably across the 100th or 1,000th run**, not just produce an impressive first demo.
+**AI & Agent Platforms**  
+OpenAI · Claude · Codex · Agent SDKs · LangGraph · MCP · RAG · Agent Orchestration · Tool Calling · Context Engineering · Model Routing
 
-## 🛠 Tech & Architecture
+**Agent Execution & Infrastructure**  
+Agent Harnesses · Durable Job Execution · Worker Runtimes · Sandboxed Execution · Git Worktrees · Checkpointing · Recovery · Distributed Systems
 
-**Languages:** Python · TypeScript · JavaScript · C#
+**AI Evaluation & Operations**  
+LLM Evaluations · LangSmith · OpenTelemetry · Execution Tracing · Independent Verification · Quality Gates · Regression Testing · Observability
 
-**AI & Agent Systems:** OpenAI · Claude · Codex · Agent Harnesses · Multi-Agent Systems · Agent SDKs · LangGraph · RAG · Context Engineering · Durable Memory
+**Backend & Platform Engineering**  
+Python · TypeScript · JavaScript · C# · Node.js · FastAPI · Convex · REST APIs · PostgreSQL · Docker · GitHub Apps · CI/CD
 
-**AI Software Factory:** Governed Missions · Spec-Driven Development · Quality Contracts · WorkOrders · Verification-First Delivery · Independent Verification · Evidence Lineage · Factory Learning · Human-in-the-Loop Control
+**Engineering Leadership**  
+Engineering Strategy · Team Development · Technical Roadmaps · Architecture Reviews · Developer Platforms · Engineering Automation · Production Reliability
 
-**Execution Infrastructure:** Generic Harness Contracts · Worker Runtimes · Capability Admission · Leases · Agent Sandboxes · Process Isolation · Git Worktrees · Recovery · Model Routing
+---
 
-**AI Operations:** Evals · Observability · Tracing · Provenance · Currentness · Deterministic Gates · Failure Recovery · Continuous Improvement
+## 🧠 How I Think About AI Engineering
 
-**Backend & Platform:** FastAPI · Node.js · Convex · REST APIs · Docker · Git · GitHub Apps · CI/CD
+I believe the next major advance in software engineering isn't simply making coding agents more capable.
 
-**Engineering Tooling:** Cursor · VS Code · Codex · Claude Code · Postman
+It's building the systems that make their work **reliable, measurable, recoverable, and trustworthy**.
 
-## 📌 Featured Projects
+A successful autonomous software factory needs more than a powerful model.
 
-### [Mission Control](https://github.com/jaydubya818/MissionControl)
+It needs clear specifications, bounded execution, reliable context, independent verification, durable state, operational visibility, and human authority over consequential decisions.
 
-**Governed AI Software Factory:** A human-directed autonomous software delivery platform spanning specification, planning, context, execution, verification, evidence, acceptance, observability, and continuous learning.
+The engineering challenge is making those systems work consistently across the **100th or 1,000th execution**—not just the first successful demonstration.
 
-### [AI Software Factory Mastery](https://github.com/jaydubya818/ai-software-factory-mastery)
+> **Trust the system, not the model.**
 
-**Live site:** [ai-software-factory-mastery.vercel.app](https://ai-software-factory-mastery.vercel.app/)
-
-**AI Software Factory architecture and agentic engineering:** A technical curriculum and architecture reference for designing governed autonomous software delivery systems spanning intent, agents, harnesses, orchestration, verification, delivery, observability, and continuous learning.
-
-### [AI-FDE Agent](https://github.com/jaydubya818/AI-FDE-Agent)
-
-**Forward-Deployed AI Engineering:** AI-driven workflows for discovering engineering friction, identifying automation opportunities, validating outcomes, and continuously improving developer systems.
-
-### [Agentic Pi Harness](https://github.com/jaydubya818/Agentic-Pi-Harness)
-
-**Agent Harness Engineering:** Experiments in model/tool execution, workflow composition, agent capabilities, controllability, and reusable harness infrastructure.
-
-### [Multi-Agent Observability](https://github.com/jaydubya818/multi-agent-observability)
-
-**Operational Visibility for Agent Systems:** Tracing, runtime visibility, evaluation, and operational controls for understanding and improving multi-agent execution.
-
-### [Agentic-KB](https://github.com/jaydubya818/Agentic-KB)
-
-**Persistent Knowledge and Context Infrastructure:** Knowledge, retrieval, memory, provenance, and context systems designed to provide agents with durable and attributable information.
+---
 
 ## 🤝 Let's Connect
 
-I enjoy collaborating with people working on **AI engineering platforms, agentic systems, developer infrastructure, autonomous software delivery, and practical production AI**.
+I'm interested in collaborating with engineers and teams building AI platforms, agent infrastructure, developer tools, autonomous software delivery systems, and production AI applications.
 
-**LinkedIn:** [Jarrett West](https://linkedin.com/in/JayWest01)
+- **LinkedIn:** [Jarrett West](https://linkedin.com/in/JayWest01)
+- **GitHub:** [jaydubya818](https://github.com/jaydubya818)
+- **FDLC.ai:** [fdlc.ai](https://fdlc.ai)
